@@ -2,10 +2,10 @@
 
 ##**ÍNDICE**
 
-* 1. Intro (#)
-* 2. Qué construí (#)
-* 3. Objetivo del proyecto (#)
-* 4. Link a Demo (#)
+* 1. [Intro] (#)
+* 2. [Qué construí] (#)
+* 3. [Objetivo del proyecto] (#)
+* 4. [Link a Demo] (#)
 
 ****
 
@@ -26,4 +26,5 @@ En este proyecto me enfoqué en construir la clonación de la Interfaz de Google
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3. 
 
 ## 4. Link a Demo
-https://clonacion-de-la-interfaz-de-google.netlify.app
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google] (https://clonacion-de-la-interfaz-de-google.netlify.app)
+
