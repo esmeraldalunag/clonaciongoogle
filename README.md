@@ -26,4 +26,4 @@ En este proyecto me enfoqué en construir la clonación de la Interfaz de Google
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3. 
 
 ## 4. Link a Demo
-https://cool-syrniki-21f475.netlify.app
+https://clonacion-de-la-interfaz-de-google.netlify.app
